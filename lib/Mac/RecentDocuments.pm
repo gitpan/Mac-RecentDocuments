@@ -1,9 +1,9 @@
 
 require 5;
 package Mac::RecentDocuments;
-use strict;   # Time-stamp: "2000-10-12 17:07:32 MDT"
+use strict;   # Time-stamp: "2004-12-29 18:58:03 AST"
 use vars qw($RD $SF $OK $AM @ISA @EXPORT %EXPORT_TAGS $VERSION);
-$VERSION = '0.01';
+$VERSION = '1.02';
 
 require Exporter;
 @ISA = ('Exporter');
